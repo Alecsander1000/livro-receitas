@@ -1,8 +1,8 @@
-# livro de recitas :sailboat:
+# livro de receitas :sailboat:
 
-- sjcjscnjsncjasc
-- skcnascnascnsc
-- cnsajcnjasncjascnjas
-- nknscjnjasncjas
-- knskcnnascjsjcsja
+- teste no git
+- engatinhando
+- bem devagar
+- quase parando
+- kkkkkkkkkkk
 - 
